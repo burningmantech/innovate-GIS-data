@@ -16,6 +16,6 @@ This data is provided for use in participant projects and is not intended for co
 - Deep-Playa Music Zone (DMZ) KMZ & GeoJSON
 - Points of Interest (CPNs) KMZ & GeoJSON
 
-### More Innovte Datset and APIs
+### More Innovate Datasets and APIs
 
 If you are interested in more data for your project please visit the [Burning Man Innovate](https://innovate.burningman.org/) website.
