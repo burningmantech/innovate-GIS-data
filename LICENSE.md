@@ -1,8 +1,7 @@
 # License and Data Usage Terms
 
 ## Data Terms of Use
-The data provided in this repository is subject to the Terms of Service for Burning Man APIs and Datasets, available at:
-[https://innovate.burningman.org/terms-of-service-for-burning-man-apis-and-datasets/]
+The data provided in this repository is subject to the Terms of Service for Burning Man APIs and Datasets, available at: https://innovate.burningman.org/terms-of-service-for-burning-man-apis-and-datasets/
 
 ### Key Points
 - Users must comply with all terms specified in the above Terms of Service
