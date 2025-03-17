@@ -12,7 +12,7 @@ The data provided in this repository is subject to the Terms of Service for Burn
 Due to the nature of a volunteer supported organization and operational priorities, we cannot guarantee all datasets will be available or updated with regularity. Your mileage may vary.
 
 ## Privacy Policy
-For any questions regarding your privacy, review the [Burning Man Privacy Policy](https://burningman.org/privacy-policy/) found at the bottom of every page on this website.
+For any questions regarding your privacy, review the [Burning Man Privacy Policy](https://burningman.org/privacy-policy/).
 
 ## License Updates
 The terms governing the data usage may be updated by Burning Man Project at any time. Users are responsible for reviewing and complying with the most current version of the Terms of Service.
