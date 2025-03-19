@@ -1,0 +1,755 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.19588521247879,
+                    40.78071527034651
+                ]
+            },
+            "properties": {
+                "FID": 0,
+                "NAME": "3:00 & B Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.19771030409868,
+                    40.78210279545575
+                ]
+            },
+            "properties": {
+                "FID": 1,
+                "NAME": "3:00 Portal"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.20409386172614,
+                    40.773738821370664
+                ]
+            },
+            "properties": {
+                "FID": 2,
+                "NAME": "4:30 & G Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.20409386071294,
+                    40.780092812039946
+                ]
+            },
+            "properties": {
+                "FID": 3,
+                "NAME": "4:30 Portal"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.20977037780312,
+                    40.7826403245685
+                ]
+            },
+            "properties": {
+                "FID": 4,
+                "NAME": "6:00 Portal"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.22148234945196,
+                    40.78695398130182
+                ]
+            },
+            "properties": {
+                "FID": 5,
+                "NAME": "7:30 & G Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.21312151137744,
+                    40.78695493749981
+                ]
+            },
+            "properties": {
+                "FID": 6,
+                "NAME": "7:30 Portal"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.21230404353044,
+                    40.79319471844159
+                ]
+            },
+            "properties": {
+                "FID": 7,
+                "NAME": "9:00 & B Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.21050253921446,
+                    40.791797198659694
+                ]
+            },
+            "properties": {
+                "FID": 8,
+                "NAME": "9:00 Portal"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.20799292369487,
+                    40.76420378518429
+                ]
+            },
+            "properties": {
+                "FID": 9,
+                "NAME": "Airport"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.23523623168893,
+                    40.76876578513376
+                ]
+            },
+            "properties": {
+                "FID": 10,
+                "NAME": "Box Office"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.21176437501825,
+                    40.781124402064975
+                ]
+            },
+            "properties": {
+                "FID": 11,
+                "NAME": "Center Camp Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.2339168074696,
+                    40.76879843938026
+                ]
+            },
+            "properties": {
+                "FID": 12,
+                "NAME": "Gate Actual"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.20849801395559,
+                    40.78028145027964
+                ]
+            },
+            "properties": {
+                "FID": 13,
+                "NAME": "HEaT"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.21217850298602,
+                    40.783055890801336
+                ]
+            },
+            "properties": {
+                "FID": 14,
+                "NAME": "Media Mecca"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.207852676186,
+                    40.78005719597357
+                ]
+            },
+            "properties": {
+                "FID": 15,
+                "NAME": "Rampart"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.19787008623109,
+                    40.76975901375258
+                ]
+            },
+            "properties": {
+                "FID": 16,
+                "NAME": "Walk-In Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.237004080004,
+                    40.76864301206366
+                ]
+            },
+            "properties": {
+                "FID": 17,
+                "NAME": "Will Call Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.19519110131647,
+                    40.77990532560926
+                ]
+            },
+            "properties": {
+                "FID": 18,
+                "NAME": "Station 3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.21299908054387,
+                    40.794004131472384
+                ]
+            },
+            "properties": {
+                "FID": 19,
+                "NAME": "Station 9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.209242563908,
+                    40.78115054405821
+                ]
+            },
+            "properties": {
+                "FID": 20,
+                "NAME": "Playa Info"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.23555224117943,
+                    40.76801967304353
+                ]
+            },
+            "properties": {
+                "FID": 21,
+                "NAME": "D Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.22131475489088,
+                    40.773862353247665
+                ]
+            },
+            "properties": {
+                "FID": 22,
+                "NAME": "Greeters"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.19179944104721,
+                    40.77760870797024
+                ]
+            },
+            "properties": {
+                "FID": 23,
+                "NAME": "3:00 & G Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.21639017438127,
+                    40.79629770125201
+                ]
+            },
+            "properties": {
+                "FID": 24,
+                "NAME": "9:00 & G Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.21638828117048,
+                    40.777608710237196
+                ]
+            },
+            "properties": {
+                "FID": 25,
+                "NAME": "6:00 & G Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.20761086304647,
+                    40.780501012508765
+                ]
+            },
+            "properties": {
+                "FID": 26,
+                "NAME": "Station 6"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.21176437501825,
+                    40.781124402065
+                ]
+            },
+            "properties": {
+                "FID": 27,
+                "NAME": "Center Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.20409385957697,
+                    40.78695528975402
+                ]
+            },
+            "properties": {
+                "FID": 28,
+                "NAME": "The Man"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.19770910353706,
+                    40.791807612181046
+                ]
+            },
+            "properties": {
+                "FID": 29,
+                "NAME": "The Temple"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.19482040236687,
+                    40.78018703908772
+                ]
+            },
+            "properties": {
+                "FID": 30,
+                "NAME": "Ranger Station Berlin"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.21336920009409,
+                    40.79372278809845
+                ]
+            },
+            "properties": {
+                "FID": 31,
+                "NAME": "Ranger Station Tokyo"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.20940373887005,
+                    40.78191739970915
+                ]
+            },
+            "properties": {
+                "FID": 32,
+                "NAME": "Ranger HQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.22416062383982,
+                    40.77127756723011
+                ]
+            },
+            "properties": {
+                "FID": 33,
+                "NAME": "Census Checkpoint"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.2163628451429,
+                    40.803102559046245
+                ]
+            },
+            "properties": {
+                "FID": 34,
+                "NAME": "Hell Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.21708984984647,
+                    40.79644239051176
+                ]
+            },
+            "properties": {
+                "FID": 35,
+                "NAME": "Ice Nine Arctica"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.21277612803094,
+                    40.78147517441141
+                ]
+            },
+            "properties": {
+                "FID": 36,
+                "NAME": "Arctica Center Camp"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.1911716640115,
+                    40.77746997165368
+                ]
+            },
+            "properties": {
+                "FID": 37,
+                "NAME": "Ice Cubed Arctica 3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.20828778752056,
+                    40.78258793342187
+                ]
+            },
+            "properties": {
+                "FID": 38,
+                "NAME": "DMV"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.19998235430829,
+                    40.802654511395914
+                ]
+            },
+            "properties": {
+                "FID": 39,
+                "NAME": "DMZ"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.2071711249206,
+                    40.78037250570463
+                ]
+            },
+            "properties": {
+                "FID": 40,
+                "NAME": "BLM LE Substation"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.20409386102556,
+                    40.77813035184239
+                ]
+            },
+            "properties": {
+                "FID": 41,
+                "NAME": "4:30 & B Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.21570483237772,
+                    40.786954706718156
+                ]
+            },
+            "properties": {
+                "FID": 42,
+                "NAME": "7:30 & B Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.20090159776858,
+                    40.78938149566104
+                ]
+            },
+            "properties": {
+                "FID": 43,
+                "NAME": "12:00 Promenade"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.20693221055805,
+                    40.78479784248623
+                ]
+            },
+            "properties": {
+                "FID": 44,
+                "NAME": "6:00 Promenade"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.2009021415786,
+                    40.784529230174
+                ]
+            },
+            "properties": {
+                "FID": 45,
+                "NAME": "3:00 Promenade"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 46,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.20728580996538,
+                    40.789381260101855
+                ]
+            },
+            "properties": {
+                "FID": 46,
+                "NAME": "9:00 Promenade"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 47,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.21893060416438,
+                    40.777063243014595
+                ]
+            },
+            "properties": {
+                "FID": 47,
+                "NAME": "Burner Express Bus Depot"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.21134135896062,
+                    40.783057797100966
+                ]
+            },
+            "properties": {
+                "FID": 48,
+                "NAME": "Artery"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.21076665440589,
+                    40.77763764053068
+                ]
+            },
+            "properties": {
+                "FID": 49,
+                "NAME": "Yellow Bike Project"
+            }
+        }
+    ]
+}
