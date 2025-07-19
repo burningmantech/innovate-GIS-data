@@ -1,0 +1,860 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.19981431295163,
+          40.789389105875614
+        ]
+      },
+      "properties": {
+        "FID": 0,
+        "NAME": "1200 Promenade",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.199814313,
+        "Y": 40.7893891059
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1947984458477,
+          40.780723430913667
+        ]
+      },
+      "properties": {
+        "FID": 1,
+        "NAME": "3 & B Plaza",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.19479844599999,
+        "Y": 40.780723430899997
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.19662388990533,
+          40.782111241524447
+        ]
+      },
+      "properties": {
+        "FID": 2,
+        "NAME": "300 Portal",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.19662389,
+        "Y": 40.782111241499997
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.19984064883279,
+          40.78455660709399
+        ]
+      },
+      "properties": {
+        "FID": 3,
+        "NAME": "300 Promenade",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.199840649,
+        "Y": 40.784556607100001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.20300709408437,
+          40.773719531898053
+        ]
+      },
+      "properties": {
+        "FID": 4,
+        "NAME": "430 & G Plaza",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.203007094,
+        "Y": 40.773719531899999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.20300709500255,
+          40.780101806101086
+        ]
+      },
+      "properties": {
+        "FID": 5,
+        "NAME": "430 Portal",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.203007095,
+        "Y": 40.780101806099999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.20873507600767,
+          40.782609349220273
+        ]
+      },
+      "properties": {
+        "FID": 6,
+        "NAME": "600 Portal",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.208735076,
+        "Y": 40.782609349200001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.20587102715234,
+          40.784786073023056
+        ]
+      },
+      "properties": {
+        "FID": 7,
+        "NAME": "600 Promenade",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.205871027,
+        "Y": 40.784786072999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.22043170112347,
+          40.786962132004305
+        ]
+      },
+      "properties": {
+        "FID": 8,
+        "NAME": "730 & G Plaza",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.220431701,
+        "Y": 40.786962131999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.21203474895749,
+          40.786963095122978
+        ]
+      },
+      "properties": {
+        "FID": 9,
+        "NAME": "730 Portal",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.212034749,
+        "Y": 40.786963095099999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.21121728269718,
+          40.793202876111948
+        ]
+      },
+      "properties": {
+        "FID": 10,
+        "NAME": "9 & B Plaza",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.211217283,
+        "Y": 40.793202876099997
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.20939103244385,
+          40.791815129445212
+        ]
+      },
+      "properties": {
+        "FID": 11,
+        "NAME": "900 Portal",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.209391032,
+        "Y": 40.7918151294
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.20619863415479,
+          40.789389096123543
+        ]
+      },
+      "properties": {
+        "FID": 12,
+        "NAME": "900 Promenade",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.206198634,
+        "Y": 40.789389096100003
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.20522691146485,
+          40.764261391285487
+        ]
+      },
+      "properties": {
+        "FID": 13,
+        "NAME": "Airport",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.205226911,
+        "Y": 40.764261391300003
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.21073542116683,
+          40.78108859485657
+        ]
+      },
+      "properties": {
+        "FID": 14,
+        "NAME": "Center Camp Plaza",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.210735421,
+        "Y": 40.781088594899998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2074093301364,
+          40.78028943933321
+        ]
+      },
+      "properties": {
+        "FID": 15,
+        "NAME": "HEaT",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.20740933,
+        "Y": 40.780289439299999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.21144022465332,
+          40.783020286283026
+        ]
+      },
+      "properties": {
+        "FID": 16,
+        "NAME": "Media Mecca",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.211440225,
+        "Y": 40.783020286300001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.20676566604881,
+          40.780065841922166
+        ]
+      },
+      "properties": {
+        "FID": 17,
+        "NAME": "Rampart",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.206765666,
+        "Y": 40.780065841899997
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.19410428430447,
+          40.779913445324667
+        ]
+      },
+      "properties": {
+        "FID": 19,
+        "NAME": "Station 3",
+        "TYPE": "CPN",
+        "ALIAS1": "st3",
+        "X": -119.19410428400001,
+        "Y": 40.779913445299997
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.21197232230189,
+          40.794090422669733
+        ]
+      },
+      "properties": {
+        "FID": 20,
+        "NAME": "Station 9",
+        "TYPE": "CPN",
+        "ALIAS1": "st9",
+        "X": -119.21197232199999,
+        "Y": 40.794090422700002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.20816888747467,
+          40.781580335864184
+        ]
+      },
+      "properties": {
+        "FID": 21,
+        "NAME": "Playa Info",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.208168887,
+        "Y": 40.781580335900003
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.22052822045701,
+          40.773629797006379
+        ]
+      },
+      "properties": {
+        "FID": 23,
+        "NAME": "Greeters",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.22052822000001,
+        "Y": 40.773629796999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.21663410121627,
+          40.80735944960697
+        ]
+      },
+      "properties": {
+        "FID": 24,
+        "NAME": "Point 2",
+        "TYPE": "CPN",
+        "ALIAS1": "pt2",
+        "X": -119.216588965,
+        "Y": 40.807664941200002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.18168009473446,
+          40.803105452153233
+        ]
+      },
+      "properties": {
+        "FID": 25,
+        "NAME": "Point 3",
+        "TYPE": "CPN",
+        "ALIAS1": "pt3",
+        "X": -119.181286628,
+        "Y": 40.803169150199999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.17619408999123,
+          40.776562450338268
+        ]
+      },
+      "properties": {
+        "FID": 26,
+        "NAME": "Point 4",
+        "TYPE": "CPN",
+        "ALIAS1": "pt4",
+        "X": -119.17601261199999,
+        "Y": 40.776275140499997
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.20773209353284,
+          40.764368446673565
+        ]
+      },
+      "properties": {
+        "FID": 27,
+        "NAME": "Point 5",
+        "TYPE": "CPN",
+        "ALIAS1": "pt5",
+        "X": -119.208020389,
+        "Y": 40.764147815999998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.19068797675044,
+          40.777598090496454
+        ]
+      },
+      "properties": {
+        "FID": 28,
+        "NAME": "3 & G Plaza",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.190687977,
+        "Y": 40.7775980905
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.21532967640718,
+          40.796327476479355
+        ]
+      },
+      "properties": {
+        "FID": 29,
+        "NAME": "9 & G Plaza",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.215329676,
+        "Y": 40.796327476499997
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.21532704620718,
+          40.777597454538117
+        ]
+      },
+      "properties": {
+        "FID": 30,
+        "NAME": "6 & G Plaza",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.215327046,
+        "Y": 40.777597454499997
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.20652384845459,
+          40.780509618833086
+        ]
+      },
+      "properties": {
+        "FID": 31,
+        "NAME": "Station 6",
+        "TYPE": "CPN",
+        "ALIAS1": "st6",
+        "X": -119.206523848,
+        "Y": 40.780509618799996
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.21073542116683,
+          40.78108859485657
+        ]
+      },
+      "properties": {
+        "FID": 32,
+        "NAME": "Center Camp",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.210735421,
+        "Y": 40.781088594899998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.20300709606865,
+          40.786963448945663
+        ]
+      },
+      "properties": {
+        "FID": 33,
+        "NAME": "The Man",
+        "TYPE": "CPN",
+        "ALIAS1": "Man",
+        "X": -119.20300709599999,
+        "Y": 40.786963448900003
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.19662192527863,
+          40.791815152314989
+        ]
+      },
+      "properties": {
+        "FID": 34,
+        "NAME": "The Temple",
+        "TYPE": "CPN",
+        "ALIAS1": "Tmp",
+        "X": -119.196621925,
+        "Y": 40.791815152300003
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.19373531464844,
+          40.780198273707583
+        ]
+      },
+      "properties": {
+        "FID": 36,
+        "NAME": "Ranger Station Berlin",
+        "TYPE": "CPN",
+        "ALIAS1": "RSB",
+        "X": -119.193735315,
+        "Y": 40.780198273700002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.21231514202253,
+          40.793802980792094
+        ]
+      },
+      "properties": {
+        "FID": 37,
+        "NAME": "Ranger Station Tokyo",
+        "TYPE": "CPN",
+        "ALIAS1": "RST",
+        "X": -119.21231514199999,
+        "Y": 40.793802980800002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.21150356651343,
+          40.783641284089448
+        ]
+      },
+      "properties": {
+        "FID": 38,
+        "NAME": "Ranger HQ",
+        "TYPE": "CPN",
+        "ALIAS1": "RHQ",
+        "X": -119.21150356699999,
+        "Y": 40.7836412841
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.20864863758413,
+          40.803639907073524
+        ]
+      },
+      "properties": {
+        "FID": 39,
+        "NAME": "Hell Station",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.208648638,
+        "Y": 40.803639907099999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.21595443147025,
+          40.796433491680219
+        ]
+      },
+      "properties": {
+        "FID": 40,
+        "NAME": "Ice Nine Arctica",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.215954431,
+        "Y": 40.7964334917
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.21188689559813,
+          40.781994283666222
+        ]
+      },
+      "properties": {
+        "FID": 41,
+        "NAME": "Arctica Center Camp",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.211886896,
+        "Y": 40.781994283700001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.19003308126543,
+          40.777479126910642
+        ]
+      },
+      "properties": {
+        "FID": 42,
+        "NAME": "Ice Cubed Arctica 3",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.190033081,
+        "Y": 40.777479126899998
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.20758624011074,
+          40.782677641496178
+        ]
+      },
+      "properties": {
+        "FID": 43,
+        "NAME": "DMV",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.20758624,
+        "Y": 40.782677641500001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.19912198324673,
+          40.801877800966253
+        ]
+      },
+      "properties": {
+        "FID": 44,
+        "NAME": "DMZ",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.199121983,
+        "Y": 40.801877801000003
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.23273810046453,
+          40.783393446220742
+        ]
+      },
+      "properties": {
+        "FID": 45,
+        "NAME": "Point 1",
+        "TYPE": "CPN",
+        "ALIAS1": "pt1",
+        "X": -119.23310598800001,
+        "Y": 40.783539084099999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.20300709472012,
+          40.778138511033532
+        ]
+      },
+      "properties": {
+        "FID": 46,
+        "NAME": "430 & B Plaza",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.203007095,
+        "Y": 40.778138511000002
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.21461779395759,
+          40.786962863921083
+        ]
+      },
+      "properties": {
+        "FID": 47,
+        "NAME": "730 & B Plaza",
+        "TYPE": "CPN",
+        "ALIAS1": " ",
+        "X": -119.21461779400001,
+        "Y": 40.786962863900001
+      }
+    }
+  ]
+}
